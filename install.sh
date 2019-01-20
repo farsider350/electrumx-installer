@@ -11,7 +11,7 @@ UPDATE_PYTHON=0
 VERBOSE=0
 USE_ROCKSDB=1
 ELECTRUMX_GIT_URL="https://github.com/farsider350/electrumx"
-ELECTRUMX_GIT_BRANCH=""
+ELECTRUMX_GIT_BRANCH="AusCash"
 
 installer=$(realpath $0)
 
